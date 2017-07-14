@@ -6,6 +6,7 @@ While in this directory run:
 docker build -t myflaskapp:latest .
 ```
 
+## Run
 Then, once the build is complete, you can run the app as such:
 
 ```
