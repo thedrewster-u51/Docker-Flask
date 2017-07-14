@@ -1,4 +1,4 @@
-# Example Flash Application
+# Example Flask Application
 ## Build
 While in this directory run:
 
